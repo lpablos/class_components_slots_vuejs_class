@@ -1,0 +1,1 @@
+class_components_slots_vuejs_class
